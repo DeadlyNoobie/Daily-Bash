@@ -2,6 +2,6 @@
 
 This repo includes daily problems on bash.
 
-## Daywise Problems
+## Daily Problems
 
 * [Day1]()
